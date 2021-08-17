@@ -1,2 +1,2 @@
-# leetcode-codeforces-solutions
+# codeforces-solutions
 my solutions to some problems
